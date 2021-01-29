@@ -9,6 +9,6 @@
   "author": "K.Wilczynski @3sztof",
   "license": "ISC",
   "dependencies": {
-    "node-red-dashboard": "~2.19.4"
+    "node-red-dashboard": "~2.26.2"
   }
 }
